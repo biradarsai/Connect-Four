@@ -6,5 +6,6 @@ JavaFX is an open source, next generation client application platform for deskto
 
 - Connect Four is a two-player connection game in which the players first choose a color and then take turns dropping colored discs from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the next available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. Connect Four is a solved game. The first player can always win by playing the right moves.
 
-![Screenshot (163)](https://user-images.githubusercontent.com/85950563/122664368-95abfc80-d1be-11eb-9aa8-f8cda5ce97e0.png)
+![Connect4(1)](https://user-images.githubusercontent.com/85950563/122711256-83de5e00-d27f-11eb-86e0-c85d028112f7.png)
+
 
